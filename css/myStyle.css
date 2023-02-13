@@ -1,0 +1,17 @@
+#questionAnswer {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+
+#submit {
+    position: absolute;
+    top: 40px;
+    left: 200px;
+}
+
+#resultPara {
+    position: absolute;
+    top: 70px;
+    left: 20px;
+}
